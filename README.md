@@ -38,4 +38,4 @@ Nous pouvons mettre à jour cette politique. Tout changement sera notifié dans 
 
 ## 9. Contact
 
-Pour toute question : **privacy@finovo.app**
+Pour toute question : **privacy.finovo@gmail.com**
